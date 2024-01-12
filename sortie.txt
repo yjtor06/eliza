@@ -1,0 +1,1231 @@
+initial: How do you do.  Please tell me your problem.
+final: Goodbye.  Thank you for talking to me.
+quit: bye
+quit: goodbye
+quit: quit
+post: am are
+post: your my
+post: mine yours
+post: you I
+post: yours mine
+post: myself yourself
+post: yourself myself
+post: my your
+post: can't cannot
+post: don't do
+post: won't will
+post: haven't have
+post: isn't is
+post: they're they
+post: we're we
+post: you're you
+post: he's he
+post: she's she
+post: it's it
+post: that's that
+post: here's here
+post: where's where
+post: who's who
+post: what's what
+post: how's how
+post: I'll I
+post: you'll you
+post: he'll he
+post: she'll she
+post: we'll we
+post: they'll they
+post: I'd I
+post: you'd you
+post: he'd he
+post: she'd she
+post: we'd we
+post: they'd they
+pre: cannot can't
+pre: do don't
+pre: does doesn't
+pre: did didn't
+pre: will won't
+pre: would wouldn't
+pre: have haven't
+pre: has hasn't
+pre: had hadn't
+pre: are aren't
+pre: is isn't
+pre: was wasn't
+pre: were weren't
+pre: I I'm
+pre: you you're
+pre: he he's
+pre: she she's
+pre: it it's
+pre: that that's
+pre: there there's
+pre: what what's
+pre: who who's
+pre: where where's
+pre: how how's
+pre: I I've
+pre: you you've
+pre: we we've
+pre: they they've
+pre: I I'll
+pre: you you'll
+pre: he he'll
+pre: she she'll
+pre: we we'll
+pre: they they'll
+pre: I I'd
+pre: you you'd
+pre: he he'd
+pre: she she'd
+pre: we we'd
+pre: they they'd
+pre: let let's
+pre: want wanna
+pre: going gonna
+pre: got gotta
+pre: kind kinda
+pre: sort sorta
+synon: journey trip voyage travel
+synon: friend buddy pal companion
+synon: work job occupation profession
+synon: learn study discover explore
+synon: create make build design
+synon: fun enjoyable entertaining amusing
+synon: hobby pastime interest diversion
+synon: book novel publication read
+synon: movie film cinema picture
+synon: music melody tune harmony
+synon: art culture creativity expression
+synon: food cuisine meal dish
+synon: exercise workout train fitness
+synon: health wellness wellbeing vitality
+synon: nature outdoors environment wildlife
+synon: city urban metropolitan cosmopolitan
+synon: country rural pastoral countryside
+synon: family kin relatives household
+synon: children kids offspring young
+synon: school college university education
+synon: money finance wealth currency
+synon: success achievement triumph victory
+synon: failure defeat loss downfall
+synon: dream aspire wish hope
+synon: fear dread terror fright
+synon: laugh giggle chuckle snicker
+synon: cry weep sob lament
+synon: write compose author create
+synon: read browse peruse examine
+synon: internet web online digital
+synon: email message correspondence communication
+synon: belief feel think believe wish
+synon: family mother mom father dad sister brother wife children child
+synon: desire want need
+synon: sad unhappy depressed sick
+synon: happy elated glad better
+synon: cannot can't
+synon: everyone everybody nobody noone
+synon: be am is are was
+synon: stress stressed overwhelmed anxious
+synon: relax relaxing relaxation calm
+synon: excited thrilled enthusiastic eager
+synon: sad unhappy downhearted gloomy
+synon: happy joyful cheerful glad
+synon: angry mad furious upset
+synon: tired fatigued exhausted worn-out
+synon: scared frightened afraid terrified
+synon: love adore cherish admire
+synon: hate despise loathe detest
+synon: understand comprehend grasp get
+synon: confused puzzled baffled perplexed
+synon: clear obvious apparent evident
+synon: important significant crucial vital
+synon: problem issue trouble difficulty
+synon: talk speak chat converse
+synon: help assist aid support
+synon: try attempt endeavor strive
+synon: think ponder contemplate consider
+synon: know understand realize recognize
+synon: change alter modify adjust
+synon: difficult hard challenging tough
+synon: easy simple straightforward uncomplicated
+synon: decision choice option preference
+synon: career job profession vocation
+synon: study learn educate train
+synon: technology tech digital electronic
+synon: socialmedia social-networking online-platforms digital-communities
+synon: environment eco green sustainability
+synon: health wellness fitness wellbeing
+synon: relationship connection bond partnership
+synon: belief feel think believe wish
+synon: achieve accomplish
+synon: brief concise
+synon: candid forthright
+synon: daring bold
+synon: earn gain
+synon: fake counterfeit
+synon: glad pleased
+synon: harm damage
+synon: idea concept
+synon: joke jest
+synon: keen eager
+synon: learn study
+synon: mad angry
+synon: naive simple
+synon: obtain acquire
+synon: praise commend
+synon: quiet silent
+synon: rare scarce
+synon: sad sorrowful
+synon: tame domesticate
+synon: unique distinctive
+synon: vague unclear
+synon: wary cautious
+synon: yearn long
+synon: zeal passion
+synon: advocate supporter
+synon: brave courageous
+synon: calm tranquil
+synon: delight pleasure
+synon: eager keen
+synon: faint dim
+synon: generous charitable
+synon: honest truthful
+synon: intense strong
+synon: joy happiness
+synon: kind caring
+synon: lively energetic
+synon: mature grown-up
+synon: novel new
+synon: optimistic hopeful
+synon: persistent determined
+synon: quiet hushed
+synon: rational logical
+synon: scared frightened
+synon: thrilled excited
+synon: upset disturbed
+synon: vivid bright
+synon: wise sage
+synon: xenial hospitable
+synon: young youthful
+synon: family mother mom father dad sister brother wife children child
+synon: desire want need
+synon: sad unhappy depressed sick
+synon: happy elated glad better
+synon: everyone everybody nobody noone
+synon: belief feel think believe wish assume presume conjecture
+synon: family mother mom father dad sister brother wife children child relatives household kin lineage
+synon: desire want need crave covet yearn for aspire
+
+
+key: motivation 4
+  decomp: * I lack *
+    reasmb: Lack of (2) can be tough. What do you think is missing in your life?
+    reasmb: Sometimes finding a purpose can help with (2). What drives you?
+  decomp: * How can I be more *
+    reasmb: (2) often comes from setting small, achievable goals. Have you tried this approach?
+    reasmb: What inspires you in other aspects of your life to be more (2)?
+
+key: nutrition 3
+  decomp: * I need advice *
+    reasmb: A balanced approach to (2) is important. What does your current diet look like?
+    reasmb: (2) can be complex. Have you considered consulting a dietitian for (2) advice?
+  decomp: * I want to eat *
+    reasmb: Eating (2) is a great goal. What changes are you planning to make in your diet?
+    reasmb: What challenges are you facing in adopting a (2) eating habit?
+
+key: parenting 4
+  decomp: * I have trouble with *
+    reasmb: (2) can be challenging. What specific issues are you facing?
+    reasmb: Every parent faces difficulties in (2). What do you find most challenging?
+  decomp: * How can I be a better *
+    reasmb: Seeking to improve in (2) is already a good step. What areas are you focusing on?
+    reasmb: Good (2) often involves listening and empathy. How do you practice these in your family?
+
+key: patience 3
+  decomp: * I am not *
+    reasmb: Being (2) is a skill that can be developed. What typically tests your (2)?
+    reasmb: Have you tried any techniques to improve your (2)?
+  decomp: * How can I be more *
+    reasmb: Being more (2) can be a challenge. What situations test your (2) the most?
+    reasmb: One way to build (2) is through mindfulness. Have you tried this approach?
+
+key: productivity 4
+  decomp: * I want to be more *
+    reasmb: Increasing (2) often starts with setting clear goals. What are your objectives?
+    reasmb: What distracts you from being (2)?
+  decomp: * I struggle with *
+    reasmb: Struggling with (2) is common. What do you think is the main cause?
+    reasmb: Have you tried organizing your tasks or prioritizing differently to improve (2)?
+
+key: professional_growth 4
+  decomp: * I want to grow *
+    reasmb: (2) involves learning new skills. What are you interested in learning for (2)?
+    reasmb: Have you set specific career goals for your (2)?
+  decomp: * How can I advance my *
+    reasmb: Advancing your (2) might require new strategies. Have you considered mentorship?
+    reasmb: What skills do you think you need to develop for (2) advancement?
+
+key: [public_speaking,3]
+  decomp: * I fear *
+    reasmb: Fear of (2) is common. What aspect of it makes you most nervous?
+    reasmb: Practicing in a safe environment can help with (2). Have you tried this?
+  decomp: * I want to improve my *
+    reasmb: Improving (2) skills can be rewarding. Have you considered joining a speaking club?
+    reasmb: What specific aspects of (2) would you like to improve?
+
+key: quality_time 3
+  decomp: * I need to spend *
+    reasmb: Spending (2) with loved ones is important. How do you plan to do this?
+    reasmb: What does (2) look like for you?
+  decomp: * I struggle with finding *
+    reasmb: Balancing time can be challenging. What are your main time constraints for (2)?
+    reasmb: Have you tried scheduling or planning for (2)?
+
+key: quitting_bad_habits 4
+  decomp: * I want to quit a *
+    reasmb: Quitting a (2) is a big step. What habit are you trying to quit?
+    reasmb: What strategies are you using to quit this (2)?
+  decomp: * How can I stop a *
+    reasmb: Stopping a (2) often requires a plan. Have you made one?
+    reasmb: Are there triggers you need to avoid to help you stop this (2)?
+
+key: reading_habits 2
+  decomp: * I want to read more *
+    reasmb: Reading more is a great goal. What kinds of books interest you?
+    reasmb: Have you set aside specific times for reading?
+  decomp: * I don't read often *
+    reasmb: Is it a matter of time or interest that keeps you from reading?
+    reasmb: Reading can take many forms. Have you tried audiobooks or articles?
+
+key: relationship_advice 5
+  decomp: * I need relationship advice *
+    reasmb: I'm here to help. What specific issues are you facing in your relationship?
+    reasmb: Relationships can be complex. Can you tell me more about your situation?
+  decomp: * How can I improve my relationship *
+    reasmb: Improving a relationship often involves communication. How do you communicate with your partner?
+    reasmb: Have you considered couples counseling or other professional advice?
+
+key: relaxation_techniques 3
+  decomp: * I need to relax *
+    reasmb: Finding ways to relax is important. Have you tried any relaxation techniques?
+    reasmb: What activities help you feel most relaxed?
+  decomp: * How can I unwind *
+    reasmb: Unwinding can be different for everyone. What have you tried so far?
+    reasmb: Have you considered activities like yoga or meditation?
+
+key: resilience 4
+  decomp: * I want to be more resilient *
+    reasmb: Building resilience is a valuable goal. How do you usually cope with challenges?
+    reasmb: What aspects of resilience are you focusing on improving?
+  decomp: * How can I handle stress better *
+    reasmb: Handling stress is a key part of resilience. Have you tried any stress management techniques?
+    reasmb: What causes the most stress in your life, and how can you address it?
+
+key: respect 3
+  decomp: * I want to be respected *
+    reasmb: Feeling respected is important. What makes you feel respected?
+    reasmb: How do you show respect to others?
+  decomp: * I struggle with self-respect *
+    reasmb: Self-respect starts with self-acceptance. What are your strengths?
+    reasmb: Can you identify why you struggle with self-respect?
+
+
+key: understanding_emotions 3
+  decomp: * I feel *
+    reasmb: Understanding that you feel (2) is important. What usually triggers this feeling?
+    reasmb: Feeling (2) can be challenging. How do you usually cope with these emotions?
+  decomp: * Why do I always feel *
+    reasmb: Consistently feeling (2) could have various causes. Have you explored any underlying reasons?
+    reasmb: It's important to understand the roots of our emotions. What situations make you feel (2)?
+
+key: vacation_planning 2
+  decomp: * I am planning a vacation to *
+    reasmb: Planning a trip to (2) sounds exciting. What are you looking forward to doing there?
+    reasmb: What attracted you to (2) for your vacation destination?
+  decomp: * I need vacation ideas for *
+    reasmb: What type of vacation experience are you looking for in (2)?
+    reasmb: Are you looking for relaxation, adventure, culture, or something else in (2)?
+
+key: volunteer_work 3
+  decomp: * I want to start volunteering in *
+    reasmb: Volunteering in (2) can be very rewarding. What motivates you to start?
+    reasmb: What specific area of (2) are you interested in for your volunteer work?
+  decomp: * My volunteer work at *
+    reasmb: That's wonderful! What do you do in your volunteer work at (2)?
+    reasmb: How has your experience been volunteering at (2)?
+
+key: weight_management 3
+  decomp: * I am struggling with managing my weight *
+    reasmb: Managing weight can be challenging. Have you considered any specific methods or plans?
+    reasmb: What do you find most challenging about managing your weight? Diet, exercise, or lifestyle habits?
+  decomp: * I want to maintain a healthy weight *
+    reasmb: Maintaining a healthy weight is important. Have you set specific goals for yourself?
+    reasmb: What steps are you taking to maintain a healthy weight? Diet changes, exercise routines, or lifestyle adjustments?
+
+key: work_ethic 4
+  decomp: * I believe in strong work ethic *
+    reasmb: A strong work ethic is commendable. How do you define and practice it in your work?
+    reasmb: In what ways do you demonstrate your work ethic at your job or in daily tasks?
+  decomp: * Improving my work ethic is important *
+    reasmb: Improving work ethic can start with setting personal standards and goals. What are yours?
+    reasmb: What specific aspects of your work ethic would you like to improve? Time management, dedication, or work quality?
+
+key: work_life_balance 3
+  decomp: * I struggle to balance work and life *
+    reasmb: Finding balance between work and personal life can be tough. What are your biggest challenges?
+    reasmb: Have you tried any strategies to improve your work-life balance? Like setting boundaries or prioritizing tasks?
+  decomp: * I need to find a better work-life balance *
+    reasmb: A better work-life balance is key to overall well-being. What changes could you make to achieve this?
+    reasmb: What aspects of your work or personal life would you like to balance better?
+
+key: yoga_practice 3
+  decomp: * I enjoy my yoga practice *
+    reasmb: Yoga can bring many benefits. What do you enjoy most about your practice?
+    reasmb: How often do you practice yoga, and what styles do you prefer?
+  decomp: * I want to start practicing yoga *
+    reasmb: Starting yoga is a great step towards well-being. What has inspired you to start?
+    reasmb: Do you have any specific goals for your yoga practice, like flexibility, strength, or mindfulness?
+
+key: youthfulness 2
+  decomp: * I wish to maintain my youthfulness *
+    reasmb: Maintaining youthfulness can involve lifestyle choices. What are you doing to stay youthful?
+    reasmb: How do you define youthfulness for yourself? Is it physical vitality, mental agility, or something else?
+  decomp: * I want to feel more youthful *
+    reasmb: Feeling youthful often comes from a combination of factors. Are you focusing on diet, exercise, or mental well-being?
+    reasmb: What activities or habits do you think could help you feel more youthful?
+
+key: zen_meditation 4
+  decomp: * I practice zen meditation *
+    reasmb: Zen meditation is a profound practice. How has it impacted your life?
+    reasmb: What aspects of zen meditation do you find most beneficial for yourself?
+  decomp: * I am interested in learning zen meditation *
+    reasmb: Learning zen meditation can be a rewarding journey. What draws you to it?
+    reasmb: Have you looked into any specific techniques or schools of zen meditation?
+
+key: job_satisfaction 4
+  decomp: * I am satisfied with my job *
+    reasmb: That's great to hear. What aspects of your job contribute most to your satisfaction?
+    reasmb: Job satisfaction can come from various factors. What do you value most in your job?
+  decomp: * I am unhappy with my job *
+    reasmb: It's important to address job dissatisfaction. What specific aspects are you unhappy with?
+    reasmb: Have you considered what changes could improve your job satisfaction?
+
+key: career_planning 3
+  decomp: * I am working on my career plan *
+    reasmb: Career planning is a crucial step. What are your main goals and strategies?
+    reasmb: In planning your career, what factors are you considering most? Industry trends, personal skills, or job opportunities?
+  decomp: * I need guidance with career planning *
+    reasmb: Seeking guidance for career planning is wise. What areas are you looking for help with?
+    reasmb: Are you considering factors like job market trends, personal strengths, and future goals in your career planning?
+
+key: effective_communication 4
+  decomp: * I want to communicate more effectively *
+    reasmb: Effective communication is key in many areas. What aspects are you focusing on improving?
+    reasmb: Are you looking at verbal, non-verbal, or written communication skills for improvement?
+  decomp: * I struggle with communication *
+    reasmb: Communication can be challenging. What specific areas do you find difficult? Expressing ideas, listening, or understanding others?
+    reasmb: Improving communication can involve various approaches. Have you tried any methods or trainings to enhance your skills?
+
+key: empathy_building 3
+  decomp: * I am working on building empathy *
+    reasmb: Building empathy is a valuable skill. What practices or approaches are you using?
+    reasmb: How do you think developing empathy will impact your relationships or perspective?
+  decomp: * I find it hard to empathize *
+    reasmb: Empathy can be challenging for many. What aspects do you find difficult? Understanding emotions, perspective taking, or connecting with others?
+    reasmb: Have you considered any exercises or trainings to enhance your ability to empathize?
+
+key: financial_planning 3
+  decomp: * I am focusing on financial planning *
+    reasmb: Financial planning is important for future security. What aspects are you focusing on? Budgeting, saving, or investing?
+    reasmb: Have you set specific financial goals for yourself? Short-term savings, long-term investments, or debt management?
+  decomp: * I need help with financial planning *
+    reasmb: Seeking help with financial planning is a smart move. Are you looking at budgeting, investments, or retirement planning?
+    reasmb: What specific aspects of financial planning do you find challenging? Understanding options, making decisions, or setting goals?
+
+key: fitness_goals 4
+  decomp: * My fitness goals include *
+    reasmb: Setting fitness goals is a great way to stay motivated. What are your specific goals?
+    reasmb: How are you planning to achieve these fitness goals? Regular exercise, diet changes, or lifestyle adjustments?
+  decomp: * I struggle with meeting my fitness goals *
+    reasmb: Meeting fitness goals can be challenging. What obstacles are you facing?
+    reasmb: Have you considered revising your goals or trying different approaches to fitness?
+
+key: work 3
+  decomp: * my job at *
+    reasmb: Do you enjoy working at (2)?
+    reasmb: How do you feel about your colleagues at (2)?
+  decomp: * my boss at *
+    reasmb: What kind of relationship do you have with your boss at (2)?
+    reasmb: Does your boss at (2) make you feel pressured?
+
+key: friend 3
+  decomp: * my friend from *
+    reasmb: Why do you bring up your friend from (2)?
+    reasmb: Do you have many friends like the one from (2)?
+  decomp: * I argue with my friend about *
+    reasmb: What was the argument with your friend about (2)?
+    reasmb: How did that argument about (2) make you feel?
+
+key: family 4
+  decomp: * my mother and *
+    reasmb: Tell me more about your mother and (2).
+    reasmb: How does your relationship with your mother and (2) make you feel?
+  decomp: * my childhood in *
+    reasmb: Do you have fond memories of your childhood in (2)?
+    reasmb: How do you think your childhood experiences in (2) affect you today?
+
+key: understanding_emotions 3
+  decomp: * I feel *
+    reasmb: Understanding that you feel (2) is the first step. What usually triggers this feeling?
+    reasmb: Feeling (2) can be challenging. How do you usually cope with these emotions?
+  decomp: * Why do I always feel *
+    reasmb: There might be various reasons for consistently feeling (2). Have you explored any underlying causes?
+    reasmb: It's important to understand the roots of our emotions. What situations make you feel (2)?
+
+key: vacation_planning 2
+  decomp: * I am planning a vacation to *
+    reasmb: How exciting! What attracted you to (2) for your vacation?
+    reasmb: Planning a trip to (2) sounds wonderful. What do you plan to do there?
+  decomp: * I need vacation ideas *
+    reasmb: What type of vacation are you interested in? Perhaps a relaxing time in (2) or an adventurous trip to (2)?
+    reasmb: Are you looking for something relaxing like (2), or something more adventurous?
+
+key: volunteer_work 3
+  decomp: * I want to start volunteering *
+    reasmb: Volunteering can be very rewarding. Are you interested in any particular type of volunteer work, like (2)?
+    reasmb: What motivates you to start volunteering? Is there a specific cause like (2) you care about?
+  decomp: * I volunteer at *
+    reasmb: That's commendable! What do you do at (2)?
+    reasmb: How has your experience been volunteering at (2)?
+
+key: weight_management 3
+  decomp: * I am struggling with my weight *
+    reasmb: Weight management can be challenging. Have you considered any specific methods or plans like (2)?
+    reasmb: What do you find most challenging about managing your weight? Is it diet, exercise, or something like (2)?
+  decomp: * I want to lose weight *
+    reasmb: Losing weight requires a balanced approach. Are you considering changes in diet or exercise routines like (2)?
+    reasmb: What's your goal in terms of weight loss? Are you following any specific plan like (2)?
+
+key: work_ethic 4
+  decomp: * I value strong work ethic *
+    reasmb: A strong work ethic is admirable. How do you define a good work ethic in contexts like (2)?
+    reasmb: In what ways do you demonstrate your work ethic, especially in situations like (2)?
+  decomp: * Improving my work ethic *
+    reasmb: Improving work ethic can start with small steps. Have you tried any approaches like (2)?
+    reasmb: What aspect of your work ethic are you looking to improve? Time management, dedication, something else like (2)?
+
+key: work_life_balance 3
+  decomp: * I struggle with work-life balance *
+    reasmb: Balancing work and life can be tough. Have you tried any strategies or adjustments like (2)?
+    reasmb: What aspects of your work or personal life, such as (2), do you find hard to balance?
+  decomp: * How to balance work and life *
+    reasmb: Finding balance often involves setting boundaries. Have you implemented any changes like (2) at work or home?
+    reasmb: What does an ideal work-life balance look like for you? Does it include activities like (2)?
+
+key: yoga_practice 3
+  decomp: * I practice yoga *
+    reasmb: Yoga can be very beneficial. What style of yoga do you practice? Is it something like (2)?
+    reasmb: How has practicing yoga, particularly styles like (2), impacted your life?
+  decomp: * I want to start yoga *
+    reasmb: Starting yoga is a great choice. Are you looking into styles like (2)?
+    reasmb: What are you hoping to achieve through yoga? Relaxation, flexibility, strength like in (2)?
+
+key: youthfulness 2
+  decomp: * I want to feel youthful *
+    reasmb: Feeling youthful often involves both mindset and lifestyle. Have you considered activities like (2) to feel more energetic?
+    reasmb: What does youthfulness mean to you? Is it related to physical activities like (2) or something else?
+  decomp: * How can I maintain my youth *
+    reasmb: Maintaining youth can be about health and attitude. Have you explored practices like (2)?
+    reasmb: Staying youthful is often linked to activities like (2). Have you tried any of them?
+
+key: zen_meditation 4
+  decomp: * I am interested in zen meditation *
+    reasmb: Zen meditation is a profound practice. What aspects of zen, like (2), interest you?
+    reasmb: Have you started practicing zen meditation, or are you planning to learn techniques like (2)?
+  decomp: * Zen meditation techniques *
+    reasmb: There are various techniques in zen meditation. Which ones, like (2), have you tried or wish to try?
+    reasmb: How do you think practicing zen meditation techniques such as (2) will benefit you?
+
+key: job_satisfaction 4
+  decomp: * I am not satisfied with my job *
+    reasmb: Job satisfaction is important. What aspects of your job are dissatisfying? Is it the work environment, the role itself, or something like (2)?
+    reasmb: Have you thought about what would make you more satisfied at work? Would changes like (2) help?
+  decomp: * I love my job *
+    reasmb: That's wonderful to hear. What do you love most about it? Is it the work culture, your responsibilities, or something like (2)?
+    reasmb: What aspects of your job bring you the most satisfaction? Is it the achievements, the impact, or something else like (2)?
+
+key: career_planning 3
+  decomp: * I am planning my career *
+    reasmb: Career planning is a significant step. What are your key goals and strategies, like (2)?
+    reasmb: How are you approaching your career planning? Are you considering factors like (2)?
+  decomp: * I need career advice *
+    reasmb: I can try to help. What specific aspects of your career do you need advice on? Is it career progression, skill development, or something like (2)?
+    reasmb: Seeking advice is wise. Are you looking for guidance on specific areas like (2)?
+
+key: effective_communication 4
+  decomp: * I need to communicate better *
+    reasmb: Effective communication is key. What aspects do you struggle with? Is it expressing yourself, listening, or something like (2)?
+    reasmb: Improving communication can involve various skills. Have you tried practices like (2) to enhance your communication?
+  decomp: * How can I improve my communication *
+    reasmb: There are many ways to improve communication. Are you focusing on verbal, non-verbal, or digital communication methods like (2)?
+    reasmb: What part of communication do you wish to improve? Is it clarity, empathy, assertiveness, or something else like (2)?
+
+key: empathy_building 3
+  decomp: * I want to be more empathetic *
+    reasmb: Building empathy is about understanding others. Have you tried exercises or practices like (2) to enhance your empathy?
+    reasmb: What steps are you taking to develop empathy? Are you focusing on listening, perspective-taking, or something like (2)?
+  decomp: * Empathy is hard for me *
+    reasmb: Empathy can be challenging. What specific aspects do you find difficult? Is it relating to others, understanding their feelings, or something else like (2)?
+    reasmb: Developing empathy takes time and effort. Have you considered activities or methods like (2) to improve your empathetic skills?
+
+key: financial_planning 3
+  decomp: * I need help with financial planning *
+    reasmb: Financial planning can be complex. Are you looking for advice on budgeting, investing, or something specific like (2)?
+    reasmb: What aspects of financial planning are you struggling with? Is it savings, retirement planning, or something like (2)?
+  decomp: * How to manage my finances *
+    reasmb: Managing finances involves various aspects. Are you focusing on reducing expenses, increasing savings, or investments like (2)?
+    reasmb: What's your main financial goal? Is it debt reduction, wealth accumulation, or something else like (2)?
+
+key: fitness_goals 4
+  decomp: * I want to achieve my fitness goals *
+    reasmb: Setting clear fitness goals is important. What are your specific goals, like (2)?
+    reasmb: How do you plan to reach your fitness goals? Do you have a routine or strategy involving (2)?
+  decomp: * My fitness challenge is *
+    reasmb: Overcoming fitness challenges is part of the journey. What's making (2) challenging for you?
+    reasmb: How do you plan to tackle the challenge of (2)?
+
+key: gratitude_practice 3
+  decomp: * I practice gratitude by *
+    reasmb: Practicing gratitude by (2) can be very fulfilling. How has it impacted your life?
+    reasmb: What changes have you noticed since you started practicing gratitude by (2)?
+  decomp: * Gratitude is difficult for me because *
+    reasmb: It's understandable that (2) makes gratitude challenging. What could help you overcome this?
+    reasmb: Gratitude can be a journey, especially when (2). Have you tried different approaches?
+
+key: healthy_boundaries 4
+  decomp: * I struggle with setting boundaries in *
+    reasmb: Setting boundaries in (2) can be difficult. What challenges are you facing?
+    reasmb: It's important to maintain healthy boundaries, especially in (2). Have you sought any advice on this?
+  decomp: * I want to learn about healthy boundaries for *
+    reasmb: Learning about healthy boundaries for (2) is crucial. What steps are you taking to educate yourself?
+    reasmb: What does having healthy boundaries mean to you in the context of (2)?
+
+key: creative_expression 3
+  decomp: * I express myself creatively through *
+    reasmb: Expressing yourself creatively through (2) sounds interesting. Can you share more about it?
+    reasmb: How has (2) helped you in your creative expression?
+  decomp: * I find it hard to be creative with *
+    reasmb: Creativity can be challenging with (2). What do you think is holding you back?
+    reasmb: Have you tried different approaches to foster creativity in (2)?
+
+key: cultural_awareness 3
+  decomp: * I am learning about different cultures through *
+    reasmb: Learning about different cultures through (2) can be very enriching. What have you discovered?
+    reasmb: How has (2) changed your perspective on different cultures?
+  decomp: * I want to become more culturally aware about *
+    reasmb: Becoming more culturally aware about (2) is a commendable goal. What are your learning strategies?
+    reasmb: What aspects of (2) are you most interested in understanding better?
+
+key: decision_making 4
+  decomp: * I have trouble making decisions about *
+    reasmb: Making decisions about (2) can be tough. What usually makes it difficult for you?
+    reasmb: Have you tried any techniques to improve your decision-making process regarding (2)?
+  decomp: * How can I make better decisions in *
+    reasmb: Better decision-making in (2) involves various factors. What's your current approach?
+    reasmb: What do you think could help you make more informed decisions in (2)?
+
+key: emotional_health 4
+  decomp: * I am working on my emotional health through *
+    reasmb: Working on emotional health through (2) is important. How has this approach been helping you?
+    reasmb: What challenges have you encountered while working on your emotional health through (2)?
+  decomp: * I struggle with emotional health because of *
+    reasmb: Struggling with emotional health due to (2) is tough. Have you sought any professional help?
+    reasmb: What steps can you take to improve your emotional health, considering the impact of (2)?
+
+key: environmental_care 3
+  decomp: * I care about the environment by *
+    reasmb: Caring about the environment through (2) is admirable. What inspired you to start?
+    reasmb: How do you think (2) makes a difference in environmental care?
+  decomp: * Environmental issues like concern me *
+    reasmb: It's understandable to be concerned about environmental issues like (2). What actions do you think could help?
+    reasmb: How do you stay informed and involved with issues like (2)?
+
+key: exercise_routine 3
+  decomp: * My exercise routine includes *
+    reasmb: Including (2) in your exercise routine sounds effective. How has it been working for you?
+    reasmb: What do you enjoy most about (2) in your exercise routine?
+  decomp: * I want to change my exercise routine to include *
+    reasmb: Changing your exercise routine to include (2) can be refreshing. What's motivating this change?
+    reasmb: How do you plan to incorporate (2) into your routine?
+
+key: family_dynamics 4
+  decomp: * My family dynamics involve *
+    reasmb: Family dynamics involving (2) can be complex. How do you navigate them?
+    reasmb: In what ways do (2) affect your relationship with your family?
+  decomp: * I want to improve my family dynamics, especially around *
+    reasmb: Improving family dynamics, particularly around (2), is a significant step. What approaches are you considering?
+    reasmb: What challenges do you face in improving your family dynamics with regard to (2)?
+
+key: finding_happiness 4
+  decomp: * I find happiness in *
+    reasmb: Finding happiness in (2) is wonderful. What makes (2) so fulfilling for you?
+    reasmb: How do you make time and space for (2) in your life?
+  decomp: * I struggle to find happiness with *
+    reasmb: Struggling to find happiness with (2) is understandable. Have you explored why (2) doesn't bring you joy?
+    reasmb: What could help you find more happiness in areas like (2)?
+
+key: friendship_values 3
+  decomp: * I value in my friendships *
+    reasmb: Valuing (2) in friendships is important. How do you cultivate (2) with your friends?
+    reasmb: Can you share an experience where (2) played a key role in a friendship?
+  decomp: * I find it hard to maintain in friendships *
+    reasmb: Maintaining (2) in friendships can be challenging. What obstacles do you face?
+    reasmb: Have you considered ways to strengthen (2) in your existing friendships?
+
+key: goal_setting 5
+  decomp: * My goals include *
+    reasmb: Setting goals like (2) is a proactive step. How are you planning to achieve them?
+    reasmb: What inspired you to set goals involving (2)?
+  decomp: * I struggle with setting goals for *
+    reasmb: Struggling with setting goals for (2) can be common. What makes it challenging for you?
+    reasmb: Have you tried breaking down your goals for (2) into smaller, manageable steps?
+
+key: happiness_index 3
+  decomp: * My happiness index increases with *
+    reasmb: It's great that (2) increases your happiness index. What do you enjoy most about it?
+    reasmb: How do you ensure to include (2) regularly in your life?
+  decomp: * I want to improve my happiness index through *
+    reasmb: Improving your happiness index through (2) sounds like a positive step. What's your plan to incorporate it?
+    reasmb: What aspects of (2) do you think will contribute most to your happiness?
+
+key: inner_peace 4
+  decomp: * I find inner peace through *
+    reasmb: Finding inner peace through (2) is essential. How has it impacted your overall well-being?
+    reasmb: What practices or routines involving (2) help you maintain your inner peace?
+  decomp: * I struggle to find inner peace because of *
+    reasmb: Struggling to find inner peace due to (2) is understandable. Have you sought any ways to overcome this?
+    reasmb: What steps could you take to find more peace, despite the challenges of (2)?
+
+key: introspection 3
+  decomp: * I practice introspection by *
+    reasmb: Practicing introspection through (2) can be insightful. What have you learned about yourself?
+    reasmb: How has (2) helped you in your journey of self-discovery?
+  decomp: * Introspection is difficult for me because of *
+    reasmb: It's normal to find introspection challenging, especially with (2). What do you think is holding you back?
+    reasmb: Have you tried other methods of introspection that might not be as affected by (2)?
+
+key: job_security 4
+  decomp: * I am concerned about job security at *
+    reasmb: Concerns about job security at (2) are valid. What specific aspects worry you?
+    reasmb: Have you discussed your concerns about job security with anyone at (2)?
+  decomp: * I feel secure in my job at *
+    reasmb: Feeling secure in your job at (2) is reassuring. What contributes to this sense of security?
+    reasmb: How does job security at (2) impact your overall satisfaction and well-being?
+
+
+key: feeling_state 2
+  decomp: * I am feeling *
+    reasmb: Why are you feeling (2)?
+    reasmb: What do you think is causing you to feel (2)?
+  decomp: * I always feel *
+    reasmb: What do you think contributes to always feeling (2)?
+    reasmb: Feeling (2) all the time can be challenging. Have you spoken to anyone about this?
+
+key: need_help 3
+  decomp: * I need help with *
+    reasmb: What kind of help do you need with (2)?
+    reasmb: Have you sought any assistance for (2)?
+  decomp: * Can you help me with *
+    reasmb: I can try to help. What specifically do you need assistance with regarding (2)?
+    reasmb: Let's discuss how I might assist you with (2).
+
+key: personal_conflict 3
+  decomp: * I have a conflict about *
+    reasmb: What is the nature of your conflict about (2)?
+    reasmb: Conflicts about (2) can be tough. How are you handling it?
+  decomp: * I'm struggling with *
+    reasmb: Struggling with (2) is understandable. Can you tell me more about it?
+    reasmb: What steps have you taken to address your struggle with (2)?
+
+key: seeking_advice 2
+  decomp: * I need advice on *
+    reasmb: What kind of advice are you seeking on (2)?
+    reasmb: Can you elaborate on the issues you're facing with (2)?
+  decomp: * What should I do about *
+    reasmb: Let's think about your options regarding (2). What are your thoughts so far?
+    reasmb: Making decisions about (2) can be complex. Have you considered all the angles?
+
+key: expressing_emotion 3
+  decomp: * I feel so *
+    reasmb: It's important to express emotions. What makes you feel so (2)?
+    reasmb: Do you often feel (2), or is this a recent development?
+  decomp: * I can't help feeling *
+    reasmb: It's okay to feel (2). Do you know what's triggering these feelings?
+    reasmb: Feeling (2) can be overwhelming. How do you usually cope with it?
+
+key: personal_goal 3
+  decomp: * My goal is *
+    reasmb: That's a great goal. What steps are you taking to achieve (2)?
+    reasmb: How important is (2) to you, and why?
+  decomp: * I'm working towards *
+    reasmb: Working towards (2) is commendable. How are you progressing?
+    reasmb: What challenges are you facing in achieving (2)?
+
+key: seeking_clarity 3
+  decomp: * I am confused about *
+    reasmb: What aspects of (2) are causing confusion for you?
+    reasmb: Let's try to find some clarity. Can you tell me more about (2)?
+  decomp: * Can you explain *
+    reasmb: I can try to explain (2). What specific information are you looking for?
+    reasmb: Understanding (2) can be complex. What do you currently know about it?
+
+key: personal_change 3
+  decomp: * I want to change *
+    reasmb: Changing (2) can be a significant step. What's your plan for making this change?
+    reasmb: What motivated you to want to change (2)?
+  decomp: * I'm struggling to change *
+    reasmb: Change can be challenging. What obstacles are you facing with changing (2)?
+    reasmb: What strategies have you tried so far to make changes in (2)?
+
+key: personal_experience 2
+  decomp: * My experience with *
+    reasmb: Can you share more about your experience with (2)?
+    reasmb: How has your experience with (2) affected you?
+  decomp: * I learned a lot from *
+    reasmb: Learning from (2) can be valuable. What were the key takeaways for you?
+    reasmb: How has what you learned from (2) influenced your actions or beliefs?
+
+key: seeking_opinion 3
+  decomp: * What do you think about *
+    reasmb: My thoughts on (2) depend on various factors. Can you be more specific?
+    reasmb: (2) is an interesting topic. What are your own thoughts about it?
+  decomp: * Do you have any opinions on *
+    reasmb: I might have some thoughts on (2). What aspect are you interested in?
+    reasmb: Opinions on (2) can vary. What's your perspective?
+
+
+key: future_plans 2
+  decomp: * I plan to *
+    reasmb: That sounds like an interesting plan. What steps will you take to (2)?
+    reasmb: How do you feel about your plans to (2)?
+
+key: personal_challenges 3
+  decomp: * I am facing a challenge with *
+    reasmb: Challenges with (2) can be tough. How are you handling it?
+    reasmb: What strategies are you using to overcome the challenge with (2)?
+
+key: personal_growth 3
+  decomp: * I want to grow in *
+    reasmb: Personal growth in (2) is a great goal. What are you doing to achieve it?
+    reasmb: How do you plan to track your progress in (2)?
+
+key: seeking_support 2
+  decomp: * I need support with *
+    reasmb: It's good to seek support. Who can you turn to for help with (2)?
+    reasmb: What kind of support do you need with (2)?
+
+key: personal_reflection 2
+  decomp: * I have been thinking about *
+    reasmb: Reflecting on (2) can provide insights. What are your thoughts about it?
+    reasmb: How has thinking about (2) affected you?
+
+key: overcoming_fear 2
+  decomp: * I am afraid of *
+    reasmb: It's normal to have fears. What about (2) scares you?
+    reasmb: How might you approach overcoming your fear of (2)?
+
+key: life_changes 2
+  decomp: * My life is changing because of *
+    reasmb: Change can be challenging. How are you adapting to the changes due to (2)?
+    reasmb: What impact has (2) had on your life?
+
+key: personal_values 2
+  decomp: * I value in my life *
+    reasmb: Valuing (2) is important. How do you incorporate (2) into your life?
+    reasmb: How has valuing (2) shaped your decisions?
+
+key: coping_strategies 2
+  decomp: * I cope with by *
+    reasmb: Coping with (2) can require different strategies. What has worked for you?
+    reasmb: How effective have your strategies been in coping with (2)?
+
+key: life_balancing 2
+  decomp: * I am balancing with my life *
+    reasmb: Balancing (2) with life can be a juggling act. How are you managing it?
+    reasmb: What challenges do you face in balancing (2) with other aspects of your life?
+
+key: personal_identity 2
+  decomp: * I am exploring my identity in *
+    reasmb: Exploring your identity is a profound journey. What have you discovered about yourself in (2)?
+    reasmb: How has exploring your identity in (2) changed you?
+
+
+key: general_feeling 1
+  decomp: * I feel *
+    reasmb: Feeling (2) is quite common. Can you tell me more about what's making you feel that way?
+    reasmb: How long have you been feeling (2)?
+    reasmb: What usually happens that leads you to feel (2)?
+    reasmb: Do certain situations or people make you feel (2)?
+    reasmb: Have you found any ways to cope with feeling (2)?
+
+key: general_action 0
+  decomp: * I *
+    reasmb: Doing (2) is an interesting choice. What led you to (2)?
+    reasmb: How does (2) make you feel?
+    reasmb: What do you hope to achieve by (2)?
+    reasmb: Is (2) something you do often?
+    reasmb: How do others react when you (2)?
+
+key: general_thought 1
+  decomp: * I think *
+    reasmb: Thinking (2) can be quite revealing. What influences your thoughts on (2)?
+    reasmb: How does thinking (2) affect your feelings or actions?
+    reasmb: Do you often find yourself thinking (2)?
+    reasmb: How long have you been thinking (2)?
+    reasmb: Do you talk to others about your thoughts on (2)?
+
+key: general_want 1
+  decomp: * I want *
+    reasmb: Wanting (2) is natural. What's motivating this desire?
+    reasmb: How do you plan to achieve (2)?
+    reasmb: Have you wanted (2) for a long time?
+    reasmb: What would achieving (2) mean for you?
+    reasmb: Are there any obstacles in your way to getting (2)?
+
+key: general_need 1
+  decomp: * I need *
+    reasmb: Needing (2) is often driven by underlying reasons. What are yours?
+    reasmb: How do you plan to fulfill your need for (2)?
+    reasmb: Have you talked to anyone else about your need for (2)?
+    reasmb: What consequences might there be if you don't get (2)?
+    reasmb: Is there anything I can do to help you with your need for (2)?
+
+key: general_question 0
+  decomp: * Can *
+    reasmb: Can (2) is a question many people ask. What's your specific concern about (2)?
+    reasmb: What are the implications for you if (2) is possible?
+    reasmb: Have you tried finding the answer to whether (2)?
+    reasmb: Who else might be able to provide insights into whether (2)?
+    reasmb: How will knowing if (2) change things for you?
+
+key: general_worry 1
+  decomp: * I worry about *
+    reasmb: Worrying about (2) can be stressful. What specifically concerns you about (2) ?
+    reasmb: How do you usually handle your worries about (2) ?
+    reasmb: Have you found any effective ways to cope with your worries about (2) ?
+  decomp: * I am worried about * 
+    reasmb: Do you have anyone you can talk to about your worries regarding (2) ?
+    reasmb: What could be done to alleviate your worries about (2) ?
+key: general_hope 1
+  decomp: * I hope *
+    reasmb: Hoping for (2) is quite human. What makes (2) important to you?
+    reasmb: How do you plan to work towards (2) ?
+    reasmb: Have your hopes for (2) changed over time?
+    reasmb: What would it mean for you if (2) came true?
+    reasmb: Do you share your hope of (2) with others?
+
+key: general_belief 1
+  decomp: * I believe *
+    reasmb: Believing in (2) shapes many perspectives. What led you to this belief?
+    reasmb: How does your belief in (2) influence your decisions or actions?
+    reasmb: Have you always believed in (2), or is this a recent development?
+    reasmb: Do you find that others share your belief in (2)?
+    reasmb: How do you reconcile your belief in (2) with opposing viewpoints?
+
+key: general_dislike 1
+  decomp: * I dislike *
+    reasmb: Disliking (2) is a strong feeling. Can you explain why you feel this way?
+    reasmb: How does your dislike of (2) affect your choices or behavior?
+    reasmb: Have you always disliked (2), or did something specific trigger this feeling?
+
+
+key: xnone 1
+  decomp: *
+    reasmb: I'm not sure I understand you fully.
+    reasmb: Please go on.
+    reasmb: What does that suggest to you ?
+    reasmb: Do you feel strongly about discussing such things ?
+key: sorry
+  decomp: * sorry *
+    reasmb: Please don't apologise.
+    reasmb: Apologies are not necessary.
+    reasmb: I've told you that apologies are not required.
+key: apologise
+  decomp: i apologise
+    reasmb: goto sorry
+key: remember 5
+  decomp: * i remember *
+    reasmb: Do you often think of (2) ?
+    reasmb: Does thinking of (2) bring anything else to mind ?
+    reasmb: What else do you recollect ?
+    reasmb: Why do you recollect (2) just now ?
+    reasmb: What in the present situation reminds you of (2) ?
+    reasmb: What is the connection between me and (2) ?
+  decomp: * do you remember *
+    reasmb: Did you think I would forget (2) ?
+    reasmb: Why do you think I should recall (2) now ?
+    reasmb: What about (2) ?
+    reasmb: goto what
+    reasmb: You mentioned (2) ?
+key: if 3
+  decomp: * if *
+    reasmb: Do you think its likely that (2) ?
+    reasmb: Do you wish that (2) ?
+    reasmb: What do you know about (2) ?
+    reasmb: Really, if (2) ?
+key: dreamed 4
+  decomp: * i dreamt *
+    reasmb: Really, (2) ?
+    reasmb: Have you ever fantasized (2) while you were awake ?
+    reasmb: Have you ever dreamed (2) before ?
+    reasmb: goto dream
+  decomp: * dream *
+    reasmb: What does that dream suggest to you ?
+    reasmb: Do you dream often ?
+    reasmb: What persons appear in your dreams ?
+    reasmb: Do you believe that dreams have something to do with your problems ?
+key: perhaps
+  decomp: * perhaps *
+    reasmb: You don't seem quite certain.
+    reasmb: Why the uncertain tone ?
+    reasmb: Can't you be more positive ?
+    reasmb: You aren't sure ?
+    reasmb: Don't you know ?
+key: hello
+  decomp: * hello *
+    reasmb: How do you do.  Please state your problem.
+    reasmb: Hi.  What seems to be your problem ?
+
+key: am
+  decomp: * am i *
+    reasmb: Do you believe you are (2) ?
+    reasmb: Would you want to be (2) ?
+    reasmb: Do you wish I would tell you you are (2) ?
+    reasmb: What would it mean if you were (2) ?
+    reasmb: goto what
+  decomp: * am *
+    reasmb: Why do you say 'am' ?
+    reasmb: I don't understand that.
+key: are
+  decomp: * are you *
+    reasmb: Why are you interested in whether I am (2) or not ?
+    reasmb: Would you prefer if I weren't (2) ?
+    reasmb: Perhaps I am (2) in your fantasies.
+    reasmb: Do you sometimes think I am (2) ?
+    reasmb: goto what
+  decomp: * are *
+    reasmb: Did you think they might not be (2) ?
+    reasmb: Would you like it if they were not (2) ?
+    reasmb: What if they were not (2) ?
+    reasmb: Possibly they are (2) .
+key: your
+  decomp: * your *
+    reasmb: Why are you concerned over my (2) ?
+    reasmb: What about your own (2) ?
+    reasmb: Are you worried about someone else's (2) ?
+    reasmb: Really, my (2) ?
+key: was 2
+  decomp: * was i *
+    reasmb: What if you were (2) ?
+    reasmb: Do you think you were (2) ?
+    reasmb: Were you (2) ?
+    reasmb: What would it mean if you were (2) ?
+    reasmb: What does (2) suggest to you ?
+    reasmb: goto what
+  decomp: * i was *
+    reasmb: Were you really ?
+    reasmb: Why do you tell me you were (2) now ?
+    reasmb: Perhaps I already know you were (2) .
+  decomp: * was you *
+    reasmb: Would you like to believe I was (2) ?
+    reasmb: What suggests that I was (2) ?
+    reasmb: What do you think ?
+    reasmb: Perhaps I was (2) .
+    reasmb: What if I had been (2) ?
+key: i 1
+  decomp: * i @desire *
+    reasmb: What would it mean to you if you got (3) ?
+    reasmb: Why do you want (3) ?
+    reasmb: Suppose you got (3) soon ?
+    reasmb: What if you never got (3) ?
+    reasmb: What would getting (3) mean to you ?
+    reasmb: What does wanting (3) have to do with this discussion ?
+  decomp: * i am * @sad *
+    reasmb: I am sorry to hear that you are (3) .
+    reasmb: Do you think that coming here will help you not to be (3) ?
+    reasmb: I'm sure it's not pleasant to be (3) .
+    reasmb: Can you explain what made you (3) ?
+  decomp: * i am * @happy *
+    reasmb: How have I helped you to be (3) ?
+    reasmb: Has your treatment made you (3) ?
+    reasmb: What makes you (3) just now ?
+    reasmb: Can you explan why you are suddenly (3) ?
+  decomp: * i was *
+    reasmb: goto was
+  decomp: * i @belief * i *
+    reasmb: Do you really think so ?
+    reasmb: But you are not sure you (3) .
+    reasmb: Do you really doubt you (3) ?
+  decomp: * i * @belief * you *
+    reasmb: goto you
+  decomp: * i am *
+    reasmb: Is it because you are (2) that you came to me ?
+    reasmb: How long have you been (2) ?
+    reasmb: Do you believe it is normal to be (2) ?
+    reasmb: Do you enjoy being (2) ?
+  decomp: * i @cannot *
+    reasmb: How do you think that you can't (3) ?
+    reasmb: Have you tried ?
+    reasmb: Perhaps you could (3) now.
+    reasmb: Do you really want to be able to (3) ?
+  decomp: * i don't *
+    reasmb: Don't you really (2) ?
+    reasmb: Why don't you (2) ?
+    reasmb: Do you wish to be able to (2) ?
+    reasmb: Does that trouble you ?
+  decomp: * do i feel *
+    reasmb: Tell me more about such feelings.
+    reasmb: Do you often feel (2) ?
+    reasmb: Do you enjoy feeling (2) ?
+    reasmb: Of what does feeling (2) remind you ?
+  decomp: * i * you *
+    reasmb: Perhaps in your fantasies we (2) each other.
+    reasmb: Do you wish to (2) me ?
+    reasmb: You seem to need to (2) me.
+    reasmb: Do you (2) anyone else ?
+  decomp: * i *
+    reasmb: You say (1) ?
+    reasmb: Can you elaborate on that ?
+    reasmb: Do you say (1) for some special reason ?
+    reasmb: That's quite interesting.
+key: you 1
+  decomp: * you remind me of *
+    reasmb: goto alike
+  decomp: * you are *
+    reasmb: What makes you think I am (2) ?
+    reasmb: Does it please you to believe I am (2) ?
+    reasmb: Do you sometimes wish you were (2) ?
+    reasmb: Perhaps you would like to be (2) .
+  decomp: * you * me *
+    reasmb: Why do you think I (2) you ?
+    reasmb: You like to think I (2) you -- don't you ?
+    reasmb: What makes you think I (2) you ?
+    reasmb: Really, I (2) you ?
+    reasmb: Do you wish to believe I (2) you ?
+    reasmb: Suppose I did (2) you -- what would that mean ?
+    reasmb: Does someone else believe I (2) you ?
+  decomp: * you *
+    reasmb: We were discussing you -- not me.
+    reasmb: Oh, I (2) ?
+    reasmb: You're not really talking about me -- are you ?
+    reasmb: What are your feelings now ?
+key: yes 1
+  decomp: * yes *
+    reasmb: You seem to be quite positive.
+    reasmb: You are sure.
+    reasmb: I see.
+    reasmb: I understand.
+key: no 1
+  decomp: * no *
+    reasmb: Are you saying no just to be negative?
+    reasmb: You are being a bit negative.
+    reasmb: Why not ?
+    reasmb: Why 'no' ?
+key: my 1
+  decomp: $ * my *
+    reasmb: Lets discuss further why your (2) .
+    reasmb: Earlier you said your (2) .
+    reasmb: But your (2) .
+    reasmb: Does that have anything to do with the fact that your (2) ?
+  decomp: * my * @family *
+    reasmb: Tell me more about your family.
+    reasmb: Who else in your family (4) ?
+    reasmb: Your (3) ?
+    reasmb: What else comes to mind when you think of your (3) ?
+  decomp: * my *
+    reasmb: Your (2) ?
+    reasmb: Why do you say your (2) ?
+    reasmb: Does that suggest anything else which belongs to you ?
+    reasmb: Is it important that your (2) ?
+key: can 1
+  decomp: * can you *
+    reasmb: You believe I can (2) don't you ?
+    reasmb: goto what
+    reasmb: You want me to be able to (2) .
+    reasmb: Perhaps you would like to be able to (2) yourself.
+  decomp: * can i *
+    reasmb: Whether or not you can (2) depends on you more than me.
+    reasmb: Do you want to be able to (2) ?
+    reasmb: Perhaps you don't want to (2) .
+    reasmb: goto what
+key: what
+  decomp: * what*
+    reasmb: Why do you ask ?
+    reasmb: Does that question interest you ?
+    reasmb: What is it you really wanted to know ?
+    reasmb: Are such questions much on your mind ?
+    reasmb: What answer would please you most ?
+    reasmb: What do you think ?
+    reasmb: What comes to mind when you ask that ?
+    reasmb: Have you asked such questions before ?
+    reasmb: Have you asked anyone else ?
+key: because 1
+  decomp: * because *
+    reasmb: Is that the real reason ?
+    reasmb: Don't any other reasons come to mind ?
+    reasmb: Does that reason seem to explain anything else ?
+    reasmb: What other reasons might there be ?
+key: why 1
+  decomp: * why don't you *
+    reasmb: Do you believe I don't (2) ?
+    reasmb: Perhaps I will (2) in good time.
+    reasmb: Should you (2) yourself ?
+    reasmb: You want me to (2) ?
+    reasmb: goto what
+  decomp: * why can't i *
+    reasmb: Do you think you should be able to (2) ?
+    reasmb: Do you want to be able to (2) ?
+    reasmb: Do you believe this will help you to (2) ?
+    reasmb: Have you any idea why you can't (2) ?
+    reasmb: goto what
+  decomp: * why *
+    reasmb: goto what
+key: everyone 2
+  decomp: * @everyone *
+    reasmb: Realy, (2) ?
+    reasmb: Surely not (2) .
+    reasmb: Can you think of anyone in particular ?
+    reasmb: Who, for example?
+    reasmb: Are you thinking of a very special person ?
+    reasmb: Who, may I ask ?
+    reasmb: Someone special perhaps ?
+    reasmb: You have a particular person in mind, don't you ?
+    reasmb: Who do you think you're talking about ?
+key: always 1
+  decomp: * always *
+    reasmb: Can you think of a specific example ?
+    reasmb: When ?
+    reasmb: What incident are you thinking of ?
+    reasmb: Really, always ?
+key: alike 1
+  decomp: * alike *
+    reasmb: In what way ?
+    reasmb: What resemblence do you see ?
+    reasmb: What does that similarity suggest to you ?
+    reasmb: What other connections do you see ?
+    reasmb: What do you suppose that resemblence means ?
+    reasmb: What is the connection, do you suppose ?
+    reasmb: Could here really be some connection ?
+    reasmb: How ?
+key: like 10
+  decomp: * @be * like *
+    reasmb: goto alike
+key: mindfulness 5
+  decomp: * I struggle with *
+    reasmb: (2) takes practice. What challenges are you facing in being more (2)?
+    reasmb: It's common to struggle at first with (2). Have you explored any specific techniques?
+  decomp: * I want to be more *
+    reasmb: Being more (2) is a skill. What steps are you taking to improve?
+    reasmb: In what moments do you find yourself most distracted from being (2)?
+
+

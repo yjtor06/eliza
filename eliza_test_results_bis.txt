@@ -1,0 +1,147 @@
+Phrase: Hello Eliza
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase: I am feeling sad today
+Réponse d'Eliza: Why are you feeling (2)?
+
+Phrase: Let's talk about my family
+Réponse d'Eliza: Please go on.
+
+Phrase: I have problems at work
+Réponse d'Eliza: What does that suggest to you ?
+
+Phrase: I am worried about my future
+Réponse d'Eliza: Do you have anyone you can talk to about your worries regarding your future ?
+
+Phrase: I often argue with my friends
+Réponse d'Eliza: Do you feel strongly about discussing such things ?
+
+Phrase: I can't sleep at night
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase: I often think about school
+Réponse d'Eliza: Please go on.
+
+Phrase: I feel lonely
+Réponse d'Eliza: Understanding that you feel lonely is the first step. What usually triggers this feeling?
+
+Phrase: I am afraid of failure
+Réponse d'Eliza: It's normal to have fears. What about failure scares you?
+
+Phrase: I don't know what to do with my life
+Réponse d'Eliza: What does that suggest to you ?
+
+Phrase: Sometimes, I feel depressed
+Réponse d'Eliza: Feeling depressed can be challenging. How do you usually cope with these emotions?
+
+Phrase: I am happy to be here
+Réponse d'Eliza: Do you feel strongly about discussing such things ?
+
+Phrase: I am stressed about my exams
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase: I argue with my parents
+Réponse d'Eliza: Please go on.
+
+Phrase: I get nervous when speaking in public
+Réponse d'Eliza: What does that suggest to you ?
+
+Phrase: I think too much about what others think of me
+Réponse d'Eliza: Thinking too much about what others think of me can be quite revealing. What influences your thoughts on (2)?
+
+Phrase: I often feel anxious
+Réponse d'Eliza: Do you feel strongly about discussing such things ?
+
+Phrase: What should I do now?
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase: I lack self-confidence
+Réponse d'Eliza: Lack of self-confidence can be tough. What do you think is missing in your life?
+
+Phrase: I find it hard to be patient when waiting for results.
+Réponse d'Eliza: Please go on.
+
+Phrase: How can I learn to be more patient with my team?
+Réponse d'Eliza: What does that suggest to you ?
+
+Phrase: I want to be more productive during my workday.
+Réponse d'Eliza: Do you feel strongly about discussing such things ?
+
+Phrase: How can I stop procrastinating and be more productive?
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase:  I am confused about aced
+Réponse d'Eliza: What aspects of aced are causing confusion for you?
+
+Phrase: Sometimes life feels overwhelming.I often question my life choices.
+Réponse d'Eliza: Please go on.
+
+Phrase: Dealing with uncertainty is a constant struggle.
+Réponse d'Eliza: What does that suggest to you ?
+
+Phrase: I feel disconnected from my friends and family.
+Réponse d'Eliza: Understanding that you feel disconnected from your friends and family is the first step. What usually triggers this feeling?
+
+Phrase: Navigating through daily challenges is tough.
+Réponse d'Eliza: Do you feel strongly about discussing such things ?
+
+Phrase: I worry about what the future holds.
+Réponse d'Eliza: Worrying about what the future holds can be stressful. What specifically concerns you about what the future holds ?
+
+Phrase: Finding a balance in life seems impossible.
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase: I am constantly second-guessing myself.
+Réponse d'Eliza: Please go on.
+
+Phrase: Stress has become a regular part of life.
+Réponse d'Eliza: What does that suggest to you ?
+
+Phrase: I struggle to find meaning in my work.
+Réponse d'Eliza: Do you feel strongly about discussing such things ?
+
+Phrase: It's difficult to stay optimistic.
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase: I am often plagued by self-doubt.
+Réponse d'Eliza: Please go on.
+
+Phrase: Facing new challenges is always daunting.
+Réponse d'Eliza: What does that suggest to you ?
+
+Phrase: I feel like I'm stuck in a rut.
+Réponse d'Eliza: Feeling like I'm stuck in a rut can be challenging. How do you usually cope with these emotions?
+
+Phrase: It's hard to be confident in decision-making.
+Réponse d'Eliza: Do you feel strongly about discussing such things ?
+
+Phrase: I am not sure how to handle my emotions.
+Réponse d'Eliza: Being sure how to handle your emotions is a skill that can be developed. What typically tests your (2)?
+
+Phrase: Feeling underappreciated is disheartening.
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase: I have difficulty coping with change.
+Réponse d'Eliza: Please go on.
+
+Phrase: Achieving personal goals feels out of reach.
+Réponse d'Eliza: What does that suggest to you ?
+
+Phrase: I am afraid of being left behind.
+Réponse d'Eliza: How might you approach overcoming your fear of (2)?
+
+Phrase: Struggling with self-esteem is a daily battle.
+Réponse d'Eliza: Do you feel strongly about discussing such things ?
+
+Phrase: I am not sure where my career is heading.
+Réponse d'Eliza: Have you tried any techniques to improve your (2)?
+
+Phrase: Life's pressures seem to be mounting.
+Réponse d'Eliza: I'm not sure I understand you fully.
+
+Phrase: I feel like I'm always under stress.
+Réponse d'Eliza: Understanding that you feel like I'm always under stress is the first step. What usually triggers this feeling?
+
+Phrase: Finding time for self-care is challenging.
+Réponse d'Eliza: Please go on.
+
